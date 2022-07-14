@@ -8,31 +8,31 @@
 // SC SEDIKIT DI KEMBANGKAN OLEH BANG AZ
 
 //=============『 Utama 』================== //
-global.owner = ['6289688069444','6285795035419','6289647417373','6287892711054','628995404155','62895411075941','62895386445819','62895327934887','6285828764046','6289518487462','6285228906300','6283183321692'] 
-global.mods = ['6289688069444','6285795035419','6289647417373','6287892711054,''628995404155','62895411075941','62895386445819','62895327934887','6285828764046','6289518487462','6285228906300','6283183321692'] 
-global.prems = ['6289688069444','6285795035419','6289647417373','6287892711054','628995404155','62895411075941','62895386445819','62895327934887','6285828764046','6289518487462','6285228906300','6283183321692'] 
+global.owner = ['6283183321692'] 
+global.mods = ['6283183321692'] 
+global.prems = ['6283183321692'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄nomor_developerঔৣ꧂','bang-lord.partner'
-global.numberowner = '6283183321692','6289688069444'
-global.instagram = 'https://instagram.com/zalfapontianak'
-global.github = 'https://github.com/devbotmail'
-global.tt = 'https://vt.tiktok.com/ZSdc6Dht6/'
-global.sc = 'https://github.com/lordarmus/BotVip'
-global.ss = 'https://youtu.be/3m7tRD4RklM'
-global.sss = 'https://youtu.be/PzUH1ApMCig'
-global.yt = 'https://m.youtube.com/channel/UCzJakcNVDiAVnvuFJ4YAoZA'
-global.dana = '089688069444'
+global.nameowner = 'ᴹᴿ᭄nomor_developerঔৣ꧂'
+global.numberowner = '6283183321692'
+global.instagram = 'https://instagram.com/unsurtidakdiknl'
+global.github = 'https://github.com/Breder12345Aa'
+global.tt = '-'
+global.sc = '```CARI SENDIRI BANG```'
+global.ss = 'GADAK🔥'
+global.sss = '🔥😂🔥'
+global.yt = '-'
+global.dana = '083183321692'
 global.pulsa = '083183321692'
-global.gopay = '089647417373'
+global.gopay = '083183321692'
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙by botz-MD⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/E7R8oYD1AiKFVTk83Qc0sd'
-global.web = 'https://blog-expres-web.blogspot.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.gc = 'https://chat.whatsapp.com/JhayGVECnRCBUMldIgZOOd'
+global.web = 'https:/wa.me/6283183321692' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/zalfapontianak'
-global.saweria = 'https://saweria.co/bangdevs'
-global.nomer = 'https://wa.me/p/4996885007104729/6289688069444' //ganti jadi nomor mu
+global.saweria = 'KE O w n e r aja langsung'
+global.nomer = 'https://wa.me/p/4996885007104729/6283183321692' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -49,8 +49,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '❋ཻུ۪۪⸙ByBot-MD⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯_𝙊𝙛𝙛cོ1꧅'
-global.wm3 = 'ᯤ lord 𝙾𝙵𝙲'
+global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜvcོ1꧅'
+global.wm3 = 'ᯤ By bOt 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
